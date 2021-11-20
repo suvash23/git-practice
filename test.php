@@ -1,6 +1,7 @@
 <?php
 
 //This is a test file
-//devel branch
-echo "Hello Devel!";
+echo "Anindya & Aradhaya";
+//main branch
+echo "Hello Devel Team!";
 ?>
