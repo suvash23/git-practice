@@ -6,3 +6,5 @@
  * and open the template in the editor.
  */
 //Home page render
+
+echo "Home!";
